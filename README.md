@@ -5,7 +5,7 @@ this respiritory contains books and etc that i have written with enjoyments feel
 | ---------------------------| ---------------|
 | python based guesing game  | 15/8/2024      |
 | customtkinter docs         | 22/8/2024      |
-| comming soon...            | 0/0/0000       |
+| branching algorithim book  | 10/10/2024     |
 
 ### whats new!
 the customtinter documenation here is the reason of publishment.
